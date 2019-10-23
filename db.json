@@ -1,0 +1,29 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "Nombre": "Reduxx",
+      "Precio": 30
+    },
+    {
+      "id": 2,
+      "Nombre": "Bootstrap",
+      "Precio": 20
+    },
+    {
+      "Nombre": "GAME OF THRONES",
+      "Precio": "60",
+      "id": 3
+    },
+    {
+      "Nombre": "LA ISLA DEL TESORO",
+      "Precio": "30",
+      "id": 6
+    },
+    {
+      "Nombre": "ERAGORN",
+      "Precio": "60",
+      "id": 7
+    }
+  ]
+}
